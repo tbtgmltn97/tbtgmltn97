@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=200&section=header&text=Heesu%20GitHub!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FE00&height=200&section=header&text=Heesu%20GitHub!&fontSize=90" />
 
 
 <div align=left><h2>👋 Hi there </h2></div>
