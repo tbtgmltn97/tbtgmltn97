@@ -60,9 +60,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbtgmltn97&langs_count=8)](https://github.com/tbtgmltn97/github-readme-stats)
 
-<div align=left><h2>⭐ Stats</h2></div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbtgmltn97&show_icons=true&theme=dark)
 
 <div align=left><h2>🤗 Visitor</h2></div>
 
